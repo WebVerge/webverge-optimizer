@@ -2,7 +2,7 @@
 /*
 Plugin Name: WebVerge Performance Tweaker
 Description:  WordPress Performance Optimizer helps you to speed up your website & also disables Gutenberg Editor
-Version: 1.0.0
+Version: 1.0.1
 Author: Xaif
 Author URI: https://webverge.io
 License: GPL-2.0 or later
